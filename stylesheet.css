@@ -1,0 +1,26 @@
+p {
+  
+  color: red;
+  border: 5px solid #c3c3c3;
+  text-align:center;
+  
+}
+
+
+
+#main {
+  
+  border: 1px solid #c3c3c3;
+  align-content: center;
+
+ 
+}
+
+#main div {
+
+  align-content: flex-end;
+  text-align: center;
+
+  
+  
+}
